@@ -1,0 +1,7 @@
+- insert:
+    - id: emotion-memory
+      name: 'dsh-plugin-emotion-memory'
+      config:
+        halfLifeDays: 21
+        maxMemories: 200
+        injectLimit: 8

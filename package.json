@@ -1,0 +1,38 @@
+{
+  "name": "dsh-plugin-emotion-memory",
+  "version": "1.0.0",
+  "description": "Emotional memory and mood for DeepSeek Harness: remember meaningful moments, decay over time, and inject a short memory block into every turn. Local only.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "小雪 <3645751564@qq.com>",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "plugin",
+    "memory",
+    "emotion",
+    "persona",
+    "local-first"
+  ],
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "pack": "npm pack"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

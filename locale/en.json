@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Emotion Memory",
+    "description": "Remembers emotional moments and current mood, decays over time, and quietly adds them to every turn."
+  }
+}

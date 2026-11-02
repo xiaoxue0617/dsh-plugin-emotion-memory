@@ -1,0 +1,108 @@
+# 非商业使用许可（附署名与免责）v1.0
+
+Copyright (c) 2026 小雪
+Project: dsh-plugin-emotion-memory
+
+本许可同时以中英文书写，如有歧义以中文为准。
+This license is provided in Chinese and English; the Chinese text prevails on ambiguity.
+
+---
+
+## 一、你可以做什么
+
+在遵守本许可全部条款的前提下，你可以：
+
+1. **个人使用**：在自己的设备上安装、运行本软件，用于个人、家庭、学习、研究目的。
+2. **修改**：阅读并修改源代码，制作你自己的衍生版本。
+3. **非商业分发**：免费分发本软件或其修改版，包括发布到公开仓库、打包给朋友、写进非营利的教程或作品集。
+4. **非商业集成**：把本软件作为非营利项目的一部分使用，包括公益项目、学术研究、开源社区的非营利工具。
+
+## 二、你必须做什么
+
+1. **署名（强制）**：任何复制、分发、修改或衍生版本，都必须保留本许可文件与版权声明，并在显著位置注明：
+   - 原作者：`小雪`（可附主页或仓库链接）
+   - 项目名：`dsh-plugin-emotion-memory`
+   - 原项目地址：`<仓库地址>`
+2. **标注修改**：如果你修改了源代码，必须在文件头或说明文档中注明「本版本基于 dsh-plugin-emotion-memory 修改」，并简述修改内容。
+3. **传递许可**：分发本软件或衍生版本时，必须附带本许可全文，不得替换为更宽松的许可。
+
+## 三、你不能做什么
+
+1. **商业用途（禁止）**：不得将本软件或其衍生版本用于任何商业目的，包括但不限于：
+   - 销售、出租、收费分发本软件；
+   - 集成进收费产品、收费服务、付费会员体系；
+   - 作为 SaaS / 托管服务向他人收费；
+   - 用于企业内部以营利为目的的生产经营活动；
+   - 以本软件为主要卖点的商业咨询、代部署、代运维收费服务。
+2. **移除声明**：不得删除或隐藏版权声明、署名信息与本许可文件。
+3. **误导性使用**：不得暗示原作者为你的衍生版本背书，也不得以原作者名义发布修改版。
+4. **违法用途**：不得用于违反所在地法律法规的场景。
+
+## 四、商业授权
+
+如需商业使用，必须事先取得作者的书面授权。
+联系方式：`3645751564@qq.com`
+
+---
+
+## 五、免责声明
+
+本软件按「现状」提供，不附带任何明示或默示的担保，包括但不限于对适销性、特定用途适用性、无侵权、无错误、不中断运行的担保。
+
+在适用法律允许的最大范围内，作者不对因使用或无法使用本软件而产生的任何直接、间接、偶然、特殊、惩罚性或后果性损害承担责任，包括但不限于数据丢失、设备损坏、账号异常、业务中断、利润损失、第三方索赔。
+
+使用者自行承担使用本软件的全部风险，并自行负责其部署环境、数据备份与合规性。
+
+---
+
+## 六、终止
+
+违反本许可任一条款，你依据本许可获得的全部权利立即终止。终止后须停止使用并删除所有副本与衍生版本。
+
+---
+
+# Non-Commercial License with Attribution and Disclaimer v1.0
+
+## 1. You may
+
+1. **Personal use**: install and run the software on your own devices for personal, family, study or research purposes.
+2. **Modify**: read and modify the source code and create derivative works.
+3. **Non-commercial distribution**: distribute the software or your modifications free of charge, including publishing to public repositories, sharing with friends, or including it in non-profit tutorials and portfolios.
+4. **Non-commercial integration**: use the software as part of non-profit projects, including public-interest projects, academic research, and non-profit community tools.
+
+## 2. You must
+
+1. **Attribution (mandatory)**: any copy, distribution, modification or derivative must keep this license and the copyright notice, and clearly state:
+   - Author: `小雪` (home page or repository link allowed)
+   - Project: `dsh-plugin-emotion-memory`
+   - Original repository: `<repository URL>`
+2. **Mark changes**: if you modify the source, state in the file header or documentation that "This version is modified from dsh-plugin-emotion-memory" and briefly describe the changes.
+3. **Pass the license on**: distributions must include this full license text. You may not relicense under more permissive terms.
+
+## 3. You may not
+
+1. **Commercial use (prohibited)**: you may not use the software or derivatives for any commercial purpose, including but not limited to: selling, renting or charging for the software; embedding it in paid products, paid services or paid membership offerings; offering it as a paid SaaS or hosted service; using it in for-profit business operations; charging for consulting, deployment or maintenance services whose main value is this software.
+2. **Remove notices**: you may not delete or hide the copyright notice, attribution or this license.
+3. **Misrepresentation**: you may not imply the original author endorses your derivative, nor publish modifications under the original author's name.
+4. **Unlawful use**: you may not use the software in violation of applicable law.
+
+## 4. Commercial licensing
+
+Commercial use requires prior written permission from the author.
+Contact: `<your email or home page>`
+
+---
+
+## 5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ERROR-FREE OR UNINTERRUPTED OPERATION.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO DATA LOSS, DEVICE DAMAGE, ACCOUNT ANOMALIES, BUSINESS INTERRUPTION, LOSS OF PROFITS OR THIRD-PARTY CLAIMS.
+
+YOU BEAR ALL RISK OF USING THIS SOFTWARE AND ARE RESPONSIBLE FOR YOUR DEPLOYMENT ENVIRONMENT, DATA BACKUPS AND COMPLIANCE.
+
+---
+
+## 6. Termination
+
+Any violation of these terms immediately terminates all rights granted to you under this license. You must then stop using the software and delete all copies and derivatives.
