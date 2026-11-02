@@ -22,7 +22,7 @@ This license is provided in Chinese and English; the Chinese text prevails on am
 1. **署名（强制）**：任何复制、分发、修改或衍生版本，都必须保留本许可文件与版权声明，并在显著位置注明：
    - 原作者：`小雪`（可附主页或仓库链接）
    - 项目名：`dsh-plugin-emotion-memory`
-   - 原项目地址：`<仓库地址>`
+   - 原项目地址：`https://gitee.com/xiaoxue0617/dsh-plugin-emotion-memory`
 2. **标注修改**：如果你修改了源代码，必须在文件头或说明文档中注明「本版本基于 dsh-plugin-emotion-memory 修改」，并简述修改内容。
 3. **传递许可**：分发本软件或衍生版本时，必须附带本许可全文，不得替换为更宽松的许可。
 
@@ -75,7 +75,7 @@ This license is provided in Chinese and English; the Chinese text prevails on am
 1. **Attribution (mandatory)**: any copy, distribution, modification or derivative must keep this license and the copyright notice, and clearly state:
    - Author: `小雪` (home page or repository link allowed)
    - Project: `dsh-plugin-emotion-memory`
-   - Original repository: `<repository URL>`
+   - Original repository: `https://gitee.com/xiaoxue0617/dsh-plugin-emotion-memory`
 2. **Mark changes**: if you modify the source, state in the file header or documentation that "This version is modified from dsh-plugin-emotion-memory" and briefly describe the changes.
 3. **Pass the license on**: distributions must include this full license text. You may not relicense under more permissive terms.
 
