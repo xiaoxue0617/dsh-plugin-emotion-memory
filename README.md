@@ -10,6 +10,16 @@ It remembers moments that carried feeling, lets them fade over time, and quietly
 - **No dependencies** — plain ESM, runs inside the DSH host
 - **Two effects** — four tools for the model, plus one small block of context per turn
 
+## Download
+
+| Source | URL |
+| --- | --- |
+| jsDelivr (fast in CN) | `https://cdn.jsdelivr.net/gh/xiaoxue0617/dsh-plugin-emotion-memory@v1.0.0/dist/dsh-plugin-emotion-memory-1.0.0.tgz` |
+| Gitee | `https://gitee.com/xiaoxue0617/dsh-plugin-emotion-memory/raw/main/dist/dsh-plugin-emotion-memory-1.0.0.tgz` |
+| GitHub | `https://raw.githubusercontent.com/xiaoxue0617/dsh-plugin-emotion-memory/main/dist/dsh-plugin-emotion-memory-1.0.0.tgz` |
+
+The tarball also lives in this repo at `dist/dsh-plugin-emotion-memory-1.0.0.tgz`.
+
 ## Install
 
 Ask DSH to install the tarball path:
